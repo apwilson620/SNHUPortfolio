@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\apwil\source\repos\WilsonAustin CS210 Project 2\WilsonAustin CS210 Project 2\Source.cpp(125,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\apwil\source\repos\WilsonAustin CS210 Project 2\WilsonAustin CS210 Project 2\Source.cpp(151,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\apwil\source\repos\WilsonAustin CS210 Project 2\WilsonAustin CS210 Project 2\Source.cpp(158,29): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  WilsonAustin CS210 Project 2.vcxproj -> C:\Users\apwil\source\repos\WilsonAustin CS210 Project 2\Debug\WilsonAustin CS210 Project 2.exe
